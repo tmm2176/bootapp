@@ -11,6 +11,6 @@ public class HomeController {
 	@ResponseBody
 	public String main() {
 		System.out.println("main handler 실행");
-		return "hello springboot!!?! docker build";
+		return "hello springboot!!?! docker build kim minsu";
 	} // end of main()
 } // end of class
